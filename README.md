@@ -1,6 +1,5 @@
 # command using while 
 
-
 command = ""
 while command != "quit":
     command = input (">").lower()
